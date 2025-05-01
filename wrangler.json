@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "ravenbloom",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5ffbbca9-e587-4f12-8265-181dd5d31e4d",
+      "database_name": "cool-limit-d521-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
